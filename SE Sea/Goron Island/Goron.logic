@@ -28,7 +28,7 @@ area GoronIsland:
       door Outside
 
   room ThreeRocksGoronHouse:
-    node _:
+    node Main:
       door Outside
 
   room LowerRight:
