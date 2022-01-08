@@ -150,7 +150,7 @@ area CourageTemple:
     node BossKeyChest:
       chest BossKey
 
-    node StairsToF3
+    node StairsToF3:
       door ToF3
 
     EmptyRoom <-> BossKeyChest: item Bow
