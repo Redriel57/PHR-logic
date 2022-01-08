@@ -16,15 +16,15 @@ area GoronIsland:
     Ledge -> Port
 
   room NoRockGoronHouse:
-    node _:
+    node Main:
       door Outside
 
   room GoronShop:
-    node _:
+    node Main:
       door Outside
 
   room OneRockSmallGoronHouse:
-    node _:
+    node Main:
       door Outside
 
   room ThreeRocksGoronHouse:
@@ -41,15 +41,15 @@ area GoronIsland:
       door ToNorth
 
   room OneRockBigGoronHouse:
-    node _:
+    node Main:
       door Outside
 
   room TwoRocksGoronHouse:
-    node _:
+    node Main:
       door Outside
 
   room GoronChiefHouse:
-    node _:
+    node Main:
       door Outside
 
   room UpperRight:
