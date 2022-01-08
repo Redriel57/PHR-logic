@@ -84,7 +84,7 @@ area CourageTemple:
     node TopRightLockedDoor:
       lock CourageKey
 
-    node StairsToF2EmptyRoom
+    node StairsToF2EmptyRoom:
       door ToF2EmptyRoom
 
     TopRight <-> TopRightPolsVoiceDefeat: defeated PolsVoiceTopRight
